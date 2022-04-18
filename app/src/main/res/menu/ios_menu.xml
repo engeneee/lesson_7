@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/iPhone11"
+        android:title="iPhone 11" />
+
+    <item
+        android:id="@+id/iPhone6sPlus"
+        android:title="iPhone 6s Plus" />
+
+    <item
+        android:id="@+id/iPhone13ProMax"
+        android:title="iPhone 13 Pro Max" />
+
+    <item
+        android:id="@+id/iPhone11Pro"
+        android:title="iPhone 11 Pro" />
+
+    <item
+        android:id="@+id/iPhoneX"
+        android:title="iPhone X" />
+</menu>
